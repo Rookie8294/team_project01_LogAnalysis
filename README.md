@@ -1,3 +1,3 @@
 # team_project01_LogAnalysis
 
-TeamProject
+로그분석 프로그램
